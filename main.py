@@ -1,9 +1,9 @@
-a=int(input("Bienvenido a este programa , el cual te permitirá saber el promedio entre un número entero A y un número C. También te dirá como calcular el doble del número a. Por favor ingresa el primer valor: "))
-c=int(input("Ahora ingresa el valor C a evaluar: "))
-respuesta = a*c
+import math
+b=int(input("Bienvenido a este programa , el cual te permitirá saber el cuadrado de un número entero b. También te dirá como calcular la raíz cuadrada d. Por favor ingresa el valor b: "))
+d=int(input("Ahora ingresa el valor D a evaluar: "))
+respuestab= pow(b,2)
+respuestad= math.sqrt(d)
 
-print("La multiplicación del número {} y {} es: {}. ".format(a,c,respuesta))
+print("El cuadrado del número {} es: {} y la raíz de {} es {} . Gracias por utilizar el programa.".format(b,respuestab,d,respuestad))
 
-respuestadoble = a * 2
-print("El doble del número {} es: {}. Gracias por utilizar este programa.".format(a,respuestadoble))
 #Trabajo creado por Pedro Felipe Gómez ; ID : 000396221
