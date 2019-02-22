@@ -1,3 +1,4 @@
+#Mi primera Modificación
 import math
 b=int(input("Bienvenido a este programa , el cual te permitirá saber el cuadrado de un número entero b. También te dirá como calcular la raíz cuadrada d. Por favor ingresa el valor b: "))
 d=int(input("Ahora ingresa el valor D a evaluar: "))
