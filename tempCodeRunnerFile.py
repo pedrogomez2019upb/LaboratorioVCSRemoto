@@ -1,0 +1,1 @@
+a=int(print"Bienvenido a este programa , el cual te permitirá saber el promedio entre un número entero A y un número C. También te dirá como calcular el doble del número a. Por favor ingresa el primer valor: ")
